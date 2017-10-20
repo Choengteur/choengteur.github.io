@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://choengteur.github.io/sitemap.xml 
